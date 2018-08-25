@@ -16,5 +16,8 @@ public class CarShop {
 
         System.out.println("Wybrałeś następujący samochód: ");
         System.out.println(audiInfo);
+
+        System.out.println("Wybrałeś następujący samochód: ");
+        System.out.println(audiInfo);
     }
 }
